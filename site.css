@@ -11,6 +11,10 @@ body {
 	line-height: 1.5em;
 }
 
+img {
+	width: 100%;
+}
+
 #main {
 
 	padding-left:  1em;
