@@ -33,3 +33,9 @@ h2 {
 	padding: 0em 1em 1em;
 	padding-top: 10px;
 }
+
+#footer {
+	font color: #ffffff;
+	text-align: center;
+	font-size: 0.85em;
+}
