@@ -7,6 +7,7 @@ body {
 	font-family: "san-serif";
 	font-size: 1em;
 	font-weight: 300;
+	color: #333;
 	line-height: 1.5em;
 }
 
@@ -34,7 +35,7 @@ h2 {
 }
 
 #footer {
-	font color: white;
+	color: #ffffff;
 	text-align: center;
 	font-size: 0.85em;
 }
