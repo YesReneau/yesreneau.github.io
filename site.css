@@ -63,3 +63,7 @@ a:link, a:visited {
 	text-decoration: none;
 	text-transform: uppercase;
 }
+
+a:hover, a:active {
+	color: #ff5c5c;
+}
