@@ -4,9 +4,11 @@ html {
 }
 
 body {
-	font-family: "HelveticaNeue-Light", "Helvetica HelveticaNeue-Light";
+	font-family: "san-serif";
+	font-size: 1em;
 	font-weight: 300;
 	color: #333;
+	line-height: 1.5em;
 }
 
 #main {
