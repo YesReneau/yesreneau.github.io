@@ -51,3 +51,8 @@ h2 {
 #items {
 	float: left;
 }
+
+a:link, a:visited {
+	display: block;
+	width: 10em;
+}
