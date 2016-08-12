@@ -52,6 +52,10 @@ h2 {
 	float: left;
 }
 
+.container {
+	float: left;
+}
+
 a:link, a:visited {
 	display: block;
 	width: 8em;
