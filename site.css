@@ -58,7 +58,8 @@ h2 {
 }
 
 .container {
-	display: inline-block;
+	float: left;
+	width:14.4em;
 }
 
 a:link, a:visited {
