@@ -39,6 +39,7 @@ h2 {
 	color: #ffffff;
 	text-align: center;
 	font-size: 0.85em;
+	clear:both;
 }
 
 #menu {
@@ -48,12 +49,16 @@ h2 {
 	overflow: hidden;
 }
 
+#videos{
+	white-space: nowrap;
+}
+
 .items {
 	float: left;
 }
 
 .container {
-	float: left;
+	display: inline-block;
 }
 
 a:link, a:visited {
