@@ -74,7 +74,7 @@ a:link, a:visited {
 	color: #fff;
 	background-color: #000;
 	text-align: center;
-	
+	padding: .25em;
 	text-decoration: none;
 	text-transform: uppercase;
 }
