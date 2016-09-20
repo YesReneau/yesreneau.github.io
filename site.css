@@ -30,7 +30,7 @@ h2 {
 
 
 #main {
-	background-color: #ffffff;
+	background-color: none;
 	padding: 0em 1em 1em;
 	padding-top: 10px;
 }
@@ -51,10 +51,6 @@ h2 {
 
 #videos{
 	white-space: nowrap;
-}
-
-#top{
-	background-color: #33B3DE;
 }
 
 .items {
