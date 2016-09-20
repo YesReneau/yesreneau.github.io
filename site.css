@@ -48,6 +48,8 @@ h2 {
 	padding: 0;
 	overflow: hidden;
 	background-color: #000;
+	height: 40px;
+	text-align: center;
 }
 
 #videos{
