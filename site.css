@@ -30,7 +30,7 @@ h2 {
 
 
 #main {
-	background-color: none;
+	background-color: #fff;
 	padding: 0em 1em 1em;
 	padding-top: 10px;
 }
@@ -47,6 +47,7 @@ h2 {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
+	background-color: #000;
 }
 
 #videos{
