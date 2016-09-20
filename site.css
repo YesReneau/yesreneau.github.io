@@ -33,6 +33,7 @@ h2 {
 
 #banner {
 	background-image: url("Images/elephant.jpg");
+	background-repeat: no-repeat;
 	height: 18em;
 }
 #main {
